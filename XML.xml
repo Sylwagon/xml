@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+    <channel>
+        <title>Showcase Test</title>
+        <link>https://vimeo.com/showcase/8448931</link>
+        <language>en-us</language>
+        <pubDate>Sun, 09 May 2021 05:19:17 -0400</pubDate>
+        <lastBuildDate>Sun, 09 May 2021 05:20:23 -0400</lastBuildDate>
+        <managingEditor>sylvain@k-yoga.fr (Sylvain Charpiot - K YOGA)</managingEditor>
+        <image>
+            <link>https://vimeo.com/showcase/8448931</link>
+            <title>Showcase Test</title>
+            <url>https://i.vimeocdn.com/video/default_114?h=114</url>
+            <height>114</height>
+            <width>114</width>
+        </image>
+        <atom:link href="https://vimeo.com/showcase/8448931/feed/amazon.xml/e9bcbfa5dc" rel="self" type="application/rss+xml"></atom:link>
+        <item>
+            <title>09/05/21 07H45 - YOGA DRING DRING BONJOUR</title>
+            <pubDate>Sun, 09 May 2021 02:14:55 -0400</pubDate>
+            <link>https://vimeo.com/547062972</link>
+            <guid isPermaLink="false">https://vimeo.com/547062972</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4412/21/547062972/2593995367.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=Jfuw7aWbzQ1XzYwRK%2B6z%2BhBr4dE%3D" language="en-US" fileSize="823545660" duration="1743" medium="video" isDefault="true">
+                <media:title type="plain">09/05/21 07H45 - YOGA DRING DRING BONJOUR</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1132573501_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>08/05/21 21H30 - MEÌDITATION FONDRE SA NEÌGATIVITEÌ</title>
+            <pubDate>Sat, 08 May 2021 16:22:30 -0400</pubDate>
+            <link>https://vimeo.com/546961457</link>
+            <guid isPermaLink="false">https://vimeo.com/546961457</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4392/21/546961457/2593560772.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=n%2FGuN%2FSGi3%2BGVMsfhmeFVmGK4Cg%3D" language="en-US" fileSize="738367455" duration="2185" medium="video" isDefault="true">
+                <media:title type="plain">08/05/21 21H30 - MEÌDITATION FONDRE SA NEÌGATIVITEÌ</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1132303148_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>08/05/21 18H00 - GRAVITY YOGA DOS</title>
+            <pubDate>Sat, 08 May 2021 13:07:05 -0400</pubDate>
+            <link>https://vimeo.com/546915922</link>
+            <guid isPermaLink="false">https://vimeo.com/546915922</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4383/21/546915922/2594069777.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=5GyA7YvzHKbE5zSSYvkl434SdiQ%3D" language="en-US" fileSize="2819100839" duration="3999" medium="video" isDefault="true">
+                <media:title type="plain">08/05/21 18H00 - GRAVITY YOGA DOS</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1132224926_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>08/05/21 10H00 - KUNDALINI YOGA REBOOST &amp; MÃ‰DITATION PUISSANTE Ã‰NERGIE</title>
+            <pubDate>Sat, 08 May 2021 05:31:01 -0400</pubDate>
+            <link>https://vimeo.com/546825039</link>
+            <guid isPermaLink="false">https://vimeo.com/546825039</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4365/21/546825039/2592960499.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=dbkNLvy5dSB7yriX%2BkdH3Lnfi5o%3D" language="en-US" fileSize="3444139964" duration="5405" medium="video" isDefault="true">
+                <media:title type="plain">08/05/21 10H00 - KUNDALINI YOGA REBOOST &amp; MÃ‰DITATION PUISSANTE Ã‰NERGIE</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1131996600_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>08/05/21 07H45 - YOGA DRING DRING BONJOUR</title>
+            <pubDate>Sat, 08 May 2021 02:11:32 -0400</pubDate>
+            <link>https://vimeo.com/546791392</link>
+            <guid isPermaLink="false">https://vimeo.com/546791392</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4358/21/546791392/2592812501.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=2ttV5yIRxNzUVr4O6Ff%2F5ESfzpI%3D" language="en-US" fileSize="717296455" duration="1550" medium="video" isDefault="true">
+                <media:title type="plain">08/05/21 07H45 - YOGA DRING DRING BONJOUR</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1132574538_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>07/05/21 21H30 - KUNDALINI MEÌDITATION KARAM SAMBHAVANI KRIYA</title>
+            <pubDate>Fri, 07 May 2021 16:16:41 -0400</pubDate>
+            <link>https://vimeo.com/546655668</link>
+            <guid isPermaLink="false">https://vimeo.com/546655668</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4331/21/546655668/2592218125.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=JMAYmNkd2fJxNncKcwPV%2BJYKADw%3D" language="en-US" fileSize="831511552" duration="1940" medium="video" isDefault="true">
+                <media:title type="plain">07/05/21 21H30 - KUNDALINI MEÌDITATION KARAM SAMBHAVANI KRIYA</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1131581323_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>07/05/21 12H15 - KUNDALINI YOGA VOUS EÌ‚TES POPCORN &amp; MEÌDITATION SE RECONSTRUIRE</title>
+            <pubDate>Fri, 07 May 2021 07:30:14 -0400</pubDate>
+            <link>https://vimeo.com/546441036</link>
+            <guid isPermaLink="false">https://vimeo.com/546441036</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4288/21/546441036/2591204366.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=%2FTZ7T5lsSFwdZQ2bDbGk1SaiJzM%3D" language="en-US" fileSize="2752354944" duration="3979" medium="video" isDefault="true">
+                <media:title type="plain">07/05/21 12H15 - KUNDALINI YOGA VOUS EÌ‚TES POPCORN &amp; MEÌDITATION SE RECONSTRUIRE</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1131316925_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>07/05/21 - 06H45 - YOGA DRING DRING BONJOUR</title>
+            <pubDate>Fri, 07 May 2021 01:09:51 -0400</pubDate>
+            <link>https://vimeo.com/546331053</link>
+            <guid isPermaLink="false">https://vimeo.com/546331053</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4266/21/546331053/2590680925.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=Qy6o7Y36PNwb3xkqbKQWeT5CVPg%3D" language="en-US" fileSize="448046606" duration="1245" medium="video" isDefault="true">
+                <media:title type="plain">07/05/21 - 06H45 - YOGA DRING DRING BONJOUR</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1130954677_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>06/05/21 21H30 - MEÌDITATION REÌVEILLER SON POUVOIR INTEÌRIEUR</title>
+            <pubDate>Thu, 06 May 2021 16:28:02 -0400</pubDate>
+            <link>https://vimeo.com/546185204</link>
+            <guid isPermaLink="false">https://vimeo.com/546185204</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4237/21/546185204/2589973881.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=swdMr9lR9DsKMOuHZTk%2FEM%2BN%2BvQ%3D" language="en-US" fileSize="749197820" duration="1721" medium="video" isDefault="true">
+                <media:title type="plain">06/05/21 21H30 - MEÌDITATION REÌVEILLER SON POUVOIR INTEÌRIEUR</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1130789597_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+        <item>
+            <title>06/05/21 18H30 - KUNDALINI YOGA FLEXIBILIE COLONNE &amp; MEÌDITATION PROSPERITEÌ</title>
+            <pubDate>Thu, 06 May 2021 14:32:54 -0400</pubDate>
+            <link>https://vimeo.com/546137276</link>
+            <guid isPermaLink="false">https://vimeo.com/546137276</guid>
+            <media:category>All</media:category>
+            <media:content url="https://vimeo-prod-skyfire-std-us.storage.googleapis.com/01/4227/21/546137276/2589782208.mp4?GoogleAccessId=GOOGLW2TRT7BCCZZO5AX&amp;Expires=1620676981&amp;Signature=OGxyMIXMGZeqySUK6Uyau52pGow%3D" language="en-US" fileSize="2703801156" duration="6113" medium="video" isDefault="true">
+                <media:title type="plain">06/05/21 18H30 - KUNDALINI YOGA FLEXIBILIE COLONNE &amp; MEÌDITATION PROSPERITEÌ</media:title>
+                <media:thumbnail url="https://i.vimeocdn.com/video/1130574949_800x450.webp"></media:thumbnail>
+                <media:credit role="author" scheme="urn:ebu">Sylvain Charpiot - K YOGA</media:credit>
+            </media:content>
+        </item>
+    </channel>
+</rss>
